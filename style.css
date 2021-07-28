@@ -25,7 +25,7 @@
     right: 0;
 }
 .hero-imgOne{
-    background-image: url(images/верх\ страницы\ .png);
+    background-image: url(images/top.png);
     height: 403px;
     width: 100%;
     background-size: cover;
@@ -75,7 +75,7 @@
 }
 */
 .hero-imgTwo{
-    background-image: url(images/середина\ после\ первого\ текста\ .png);
+    background-image: url(images/kosmos.png);
     display: inline-block;
     vertical-align: middle;
 }
