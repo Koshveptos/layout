@@ -1,0 +1,126 @@
+.top{
+    display: inline-block;
+}
+.svg{
+    margin-top: 20px;
+    margin-left: 22%;
+}
+.svg180{
+    transform:rotate(180deg);
+    margin-left: -3.1em;  
+}
+.topP{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+    padding-bottom: 20%;
+}
+.head{
+    height: 84px;
+    background-color: #007765;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.hero-imgOne{
+    background-image: url(images/верх\ страницы\ .png);
+    height: 403px;
+    width: 100%;
+    background-size: cover;
+}
+.hero-textOne{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: center;
+    padding-top: 8% ;
+    padding-bottom: 8%;
+}
+.headingOne{
+    color: #007765;
+    font-size: 64px;
+    text-align: center;
+}
+.href{
+    color: white;
+    text-decoration: none;
+}
+.textOne{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 32px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.TableTop{
+    font-size: 24px;
+    /*margin-right: 8%;
+    margin-left: 45%;*/
+    float:right;
+    padding-right: 8%;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    /*padding-bottom: 10px; */
+}
+/* сотворить с паддингом чудо ,а то он нихрена не адаптивный  
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1219px;
+    padding: ;
+}
+*/
+.hero-imgTwo{
+    background-image: url(images/середина\ после\ первого\ текста\ .png);
+    display: inline-block;
+    vertical-align: middle;
+}
+.hero-textTwo{
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    font-size: 48px;
+    margin-left: 26%;
+    margin-right: 18%;
+    margin-bottom: 128px;
+    margin-top: 128px;
+    color: #FFFFFF;
+}
+.logoInText{
+    padding-right: 20px;
+}
+.tableTeam{
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2TableTeam{
+    color: #007765;
+    font-size: 24px;
+    text-align: center;
+}
+.pTableTeam{
+    text-align: center;
+    font-size: 18px;
+    font-family:Italic;
+}
+.TablePadding{
+    padding-left: 10px;
+    padding-right: 65px;
+}
+.button{
+    background-color: #333333;
+    height: 176px;
+    width: 100%;
+}
+.TextButton{
+    color: white;
+    margin-left: 36%;
+    margin-right: 36%;
+    padding-top: 66px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    text-align: center;
+}
